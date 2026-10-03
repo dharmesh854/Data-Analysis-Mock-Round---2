@@ -1,0 +1,5 @@
+hub,Total Delay Days,,,,Sum of delay_days,Column Labels,,,
+Chennai,5,,,,Row Labels,Jan,Feb,Mar,Grand Total
+Delhi,14,,,,Express ,1,3,8,12
+Mumbai,15,,,,Standard ,7,6,9,22
+,,,,,Grand Total,8,9,17,34
